@@ -1,0 +1,12 @@
+Pintura#4
+P1#Guernica
+Picasso#1937 2500
+V1#Las Meninas
+Velazquez#1656 3000
+G1#Girasoles
+Van Gogh#1888 4000
+M1#El juicio final
+Miguel Angel#1541 2000
+Escultura#1
+M2#David
+Miguel Angel#1555 3000
